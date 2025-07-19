@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "spring-ai-mcp-order": {
+      "command": "java",
+      "args": [
+        "-Dspring.ai.mcp.server.stdio=true",
+        "-jar",
+        "C:\\Users\\xiaofei\\Documents\\github\\mcp-order\\mcp-order\\mcp-order\\target\\mcp-order-1.0-SNAPSHOT.jar"
+      ]
+    }
+  }
+}
