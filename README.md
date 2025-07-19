@@ -23,7 +23,8 @@ TextContent[audience=null, priority=null, text="8=FIX.4.4|9=167|35=F|49=CLIENT12
 
 ## Tips
 
-### Tip1: When you build an MCP server run within local stdio model, you must not print any log in the system console, so below configuration is required.
+1. When you build an MCP server run within local stdio model, you must not print any log in the system console, so below
+   configuration is required.
 
 ```yml
 logging:
